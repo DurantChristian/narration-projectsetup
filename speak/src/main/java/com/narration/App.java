@@ -1,7 +1,5 @@
 package com.narration;
 
-import main.java.com.narration.Narrator;
-
 /**
  * Hello world!
  *
